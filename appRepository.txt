@@ -1,0 +1,23 @@
+Studio,West Island,800 Big Ave,Y,Fire place|Indoor Parking|Outdoor Parking,400,Contact: 514-778-2990
+3.5,Downtown,210 Spring Rd,N,Fire place|Balcony|Indoor Parking,1200,Contact: 514-778-2990
+4.5,Downtown,378 Spring Rd,Y,Fire place|Balcony|Outdoor Parking,550,Contact: 817-778-2990
+5.5,Downtown,534 Spring Rd,N,Fire place|Balcony,500,Contact: 514-911-2990
+5.5,Downtown,539 Spring Rd,N,Fire place|Balcony,600,Contact: 514-224-2990
+5.5,Downtown,532 Spring Rd,N,Fire place|Balcony,620,Contact: 514-778-2963
+3.5,South Island,111 Spring Rd,Y,Fire place|Balcony,950,Contact: 514-778-2911
+Studio,West Island,802 Big Ave,Y,Fire place|Indoor Parking,500,Contact: 514-778-2992
+Studio,West Island,823 Big Ave,Y,Fire place|Indoor Parking,300,Contact: 514-778-2995
+Studio,West Island,911 Big Ave,Y,Fire place|Indoor Parking,350,Contact: 514-778-2998
+Studio,West Island,405 Big Ave,Y,Fire place|Indoor Parking,800,Contact: 514-778-2992
+Studio,Downtown,217 Big Ave,Y,Fire place|Indoor Parking,500,Contact: 514-778-2992
+Studio,Downtown,800 Big Ave,N,Fire place|Indoor Parking,300,Contact: 514-778-2995
+3.5,West Island,807 Big Ave,Y,Fire place|Indoor Parking,500,Contact: 514-778-2992
+5.5,West Island,840 Big Ave,Y,Fire place|Indoor Parking,300,Contact: 514-778-2995
+4.5,West Island,900 Big Ave,N,Fire place|Indoor Parking,500,Contact: 514-778-2992
+Studio,West Island,120 Big Ave,Y,Fire place|Indoor Parking,300,Contact: 514-778-2345
+Studio,Laval,800 Big Ave,N,Fire place|Indoor Parking,500,Contact: 514-778-2239
+4.5,West Island,800 Big Ave,Y,Fire place|Indoor Parking|Outdoor Parking,300,Contact: 514-778-2118
+Studio,West Island,800 Big Ave,N,Fire place|Indoor Parking|Outdoor Parking,400,Contact: 514-778-2990
+3.5,Downtown,557 Spring Rd,N,Fire place|Balcony|Indoor Parking,400,Contact: 514-778-2990
+4.5,Downtown,378 Spring Rd,N,Fire place|Balcony|Outdoor Parking,550,Contact: 817-778-2990
+5.5,Downtown,839 Spring Rd,N,Fire place|Balcony,500,Contact: 514-911-2990

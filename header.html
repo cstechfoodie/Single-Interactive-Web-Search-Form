@@ -1,0 +1,23 @@
+
+<script>
+    //script for displaying time
+    function clock(){
+        var time = new Date();
+        var h = time.getHours();
+        var m = time.getMinutes();
+        var s = time.getSeconds();
+        if(m < 10){m = "0" + m;}
+        if(s < 10){s = "0" + s;}
+        document.getElementById("clock").innerHTML = time.toDateString() + "  " + h + ":" + m + ":" + s;
+        setTimeout(clock, 500);
+    }
+</script>
+<header>
+    <table>
+        <tr>
+            <td><a href="q_4_SearchFormUI.php"><img src="house.jpg" style="height: 1.5cm; width: 3cm"></a></td>
+            <td><h3>Shunyu Wang's Apartment Search Inc</h3></td>
+        </tr>
+    </table>
+    <div>Today is: <span id="clock"></span></div>
+</header>
